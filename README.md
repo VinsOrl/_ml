@@ -8,6 +8,7 @@
 教師 | [陳鍾誠](https://www.nqu.edu.tw/educsie/index.php?act=blog&code=list&ids=4)
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程教材 | https://github.com/ccc113b/py2cs
+--
 
 --
 本專案由我自行設計與實作，並使用 ChatGPT 作為輔助工具。
